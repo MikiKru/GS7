@@ -1,0 +1,5 @@
+# wyłączenie ze śledzenia katalogu
+/.idea/*
+/out/*
+# wyłączenie ze śledzenia pliku z roazszerzeniem
+GitStart7.iml
